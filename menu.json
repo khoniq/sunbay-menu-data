@@ -1,6 +1,6 @@
 [
   {
-    "id": "itemG",
+    "id": "itemA",
     "name": "極上88°C焙茶",
     "price_L": 50,
     "price_M": 45,
@@ -8,7 +8,7 @@
     "imageUrl": "https://placehold.co/150x150/FFDDC1/000000?text=極上88°C焙茶"
   },
   {
-    "id": "itemH",
+    "id": "itemB",
     "name": "金烏黑奶蓋",
     "price_L": 75,
     "price_M": null,
@@ -16,7 +16,7 @@
     "imageUrl": "https://placehold.co/150x150/FFDDC1/000000?text=金烏黑奶蓋"
   },
   {
-    "id": "itemI",
+    "id": "itemC",
     "name": "金烏西瓜",
     "price_L": 65,
     "price_M": null,
@@ -24,7 +24,7 @@
     "imageUrl": "https://placehold.co/150x150/FFDDC1/000000?text=金烏西瓜"
   },
   {
-    "id": "itemJ",
+    "id": "itemD",
     "name": "春花青茶",
     "price_L": 40,
     "price_M": 35,
@@ -32,7 +32,7 @@
     "imageUrl": "https://placehold.co/150x150/FFDDC1/000000?text=春花青茶"
   },
   {
-    "id": "itemK",
+    "id": "itemE",
     "name": "羅賓拿鐵 (原味/黑糖)",
     "price_L": 70,
     "price_M": 65,
@@ -40,7 +40,7 @@
     "imageUrl": "https://placehold.co/150x150/FFDDC1/000000?text=羅賓拿鐵"
   },
   {
-    "id": "itemL",
+    "id": "itemF",
     "name": "墨赤歐蕾",
     "price_L": 75,
     "price_M": 70,
@@ -48,7 +48,7 @@
     "imageUrl": "https://placehold.co/150x150/FFDDC1/000000?text=墨赤歐蕾"
   },
   {
-    "id": "itemM",
+    "id": "itemG",
     "name": "赤龍歐蕾",
     "price_L": 70,
     "price_M": 65,
