@@ -11,7 +11,7 @@
     "id": "itemB",
     "name": "金烏黑奶蓋",
     "price_L": 75,
-    "price_M": null,
+    "price_M": 65,
     "description": "凍頂烏龍黑糖奶蓋 (凍頂烏龍, Dongding Oolong)。",
     "imageUrl": "https://placehold.co/150x150/FFDDC1/000000?text=金烏黑奶蓋"
   },
@@ -19,7 +19,7 @@
     "id": "itemC",
     "name": "金烏西瓜",
     "price_L": 65,
-    "price_M": null,
+    "price_M": 55,
     "description": "凍頂烏龍西瓜 (凍頂烏龍, Dongding Oolong)。",
     "imageUrl": "https://placehold.co/150x150/FFDDC1/000000?text=金烏西瓜"
   },
