@@ -5,7 +5,7 @@
     "price_L": 50,
     "price_M": 45,
     "description": "山焙招牌，爆米香烏龍茶 (烏龍茶, Oolong Tea)。",
-    "imageUrl": "https://placehold.co/150x150/FFDDC1/000000?text=極上88°C焙茶"
+    "imageName": "極上88°C焙茶"
   },
   {
     "id": "itemB",
@@ -13,7 +13,7 @@
     "price_L": 75,
     "price_M": 65,
     "description": "凍頂烏龍黑糖奶蓋 (凍頂烏龍, Dongding Oolong)。",
-    "imageUrl": "https://placehold.co/150x150/FFDDC1/000000?text=金烏黑奶蓋"
+    "imageName": "金烏黑奶蓋"
   },
   {
     "id": "itemC",
@@ -21,7 +21,7 @@
     "price_L": 65,
     "price_M": 55,
     "description": "凍頂烏龍西瓜 (凍頂烏龍, Dongding Oolong)。",
-    "imageUrl": "https://placehold.co/150x150/FFDDC1/000000?text=金烏西瓜"
+    "imageName": "金烏西瓜"
   },
   {
     "id": "itemD",
@@ -29,7 +29,7 @@
     "price_L": 40,
     "price_M": 35,
     "description": "四季春青茶 (四季春, Siji Chun)。",
-    "imageUrl": "https://placehold.co/150x150/FFDDC1/000000?text=春花青茶"
+    "imageName": "春花青茶"
   },
   {
     "id": "itemE",
@@ -37,7 +37,7 @@
     "price_L": 70,
     "price_M": 65,
     "description": "日月潭紅茶鮮奶茶 (日月潭紅茶, Sun Moon Lake Black Tea) (原味/黑糖)。",
-    "imageUrl": "https://placehold.co/150x150/FFDDC1/000000?text=羅賓拿鐵"
+    "imageName": "羅賓拿鐵"
   },
   {
     "id": "itemF",
@@ -45,7 +45,7 @@
     "price_L": 75,
     "price_M": 70,
     "description": "墨赤重乳奶茶。",
-    "imageUrl": "https://placehold.co/150x150/FFDDC1/000000?text=墨赤歐蕾"
+    "imageName": "墨赤歐蕾"
   },
   {
     "id": "itemG",
@@ -53,6 +53,6 @@
     "price_L": 70,
     "price_M": 65,
     "description": "赤龍重乳奶茶。",
-    "imageUrl": "https://placehold.co/150x150/FFDDC1/000000?text=赤龍歐蕾"
+    "imageName": "赤龍歐蕾"
   }
 ]
